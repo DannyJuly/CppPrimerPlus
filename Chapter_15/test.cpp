@@ -10,6 +10,5 @@ int main(){
    // cout << (int* )ps;
     char ch[5]="av";
     char* pt = &ch[0];
-    std::s::count++;
-    cout << s::count;
+
 }
