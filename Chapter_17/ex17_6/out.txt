@@ -1,0 +1,4 @@
+0 shao zhengjiang student
+1 wang guanshi student 10
+3 cao xiaoming teacher 0 6
+3 Danny July Stu 5 none
